@@ -49,7 +49,7 @@ if __name__ == '__main__':
     # consulta_pessoa()
     # atualiza_pessoa()
     # remove_pessoa()
-    # lista_pessoas()
+    lista_pessoas()
     # insere_tarefa()
     # atualiza_tarefa()
     # consulta_tarefa()
